@@ -1,0 +1,1 @@
+nga_setvar nga_watch_powerup_net_instance true
