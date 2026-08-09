@@ -1,0 +1,9 @@
+set hdl " \
+
+/pnr_training/WORK_BATCH1/abusyed_32/FINAL_PROJECT/FINAL_PROJECT/rtl/picosoc.v
+/pnr_training/WORK_BATCH1/abusyed_32/FINAL_PROJECT/FINAL_PROJECT/rtl/picorv32.v
+
+/pnr_training/WORK_BATCH1/abusyed_32/FINAL_PROJECT/FINAL_PROJECT/rtl/picosoc_openram_4bank.v
+/pnr_training/WORK_BATCH1/abusyed_32/FINAL_PROJECT/FINAL_PROJECT/rtl/simpleuart.v
+#/pnr_training/WORK_BATCH1/abusyed_32/FINAL_PROJECT/FINAL_PROJECT/rtl/spiflash.v
+/pnr_training/WORK_BATCH1/abusyed_32/FINAL_PROJECT/FINAL_PROJECT/rtl/spimemio.v "

@@ -1,0 +1,6 @@
+set libs " \
+/pdk/sky130_scl_9T_0.1.2/sky130_scl_9T/lib/sky130_ss_1.62_125_nldm.lib.gz \
+/pdk/sky130_scl_9T_0.1.2/sky130_scl_9T_LP/lib/sky130_ss_1.62_125_nldm.lib.gz \
+/pdk/sky130_scl_9T_0.1.2/sky130_scl_9T_HS/lib/sky130_ss_1.62_125_nldm.lib.gz \ 
+../FINAL_PROJECT/ram/sky130_sram_2kbyte/lib/sky130_sram_2kbyte_1rw1r_32x512_8_TT_1p8V_25C.lib \
+../FINAL_PROJECT/ram/sky130_sram_4kbyte/lib/sky130_sram_4kbyte_1rw1r_32x1024_8_TT_1p8V_25C.lib "
